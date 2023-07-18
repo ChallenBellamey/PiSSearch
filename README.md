@@ -23,5 +23,9 @@ The file you will use to search is index.js. I have added an example on there to
 10. Enter "node index.js" into the terminal to run the program. It may take a few minutes to download the captions.
 11. Look for a newly created "matches" folder, and the results will be contained within.
 
+*Make sure to check the quotas section on the YouTube Data API v3 page of the Google APIs and services dashboard, as they only give you 10,000 requests per day. If you start encountering errors, it may be because you have exhausted your daily API quota.*
+
+*This version of the program involves some "web-scraping" to download the captions of the videos, which is probably a no-no in the eyes of Youtube. It is possible to replace this using Youtube API, however it will significantly increase your quota usage. If required, I can modify the program to fully use the Youtube API and avoid web-scraping.*
+
 Please feel free to contact me if you need any help with any of these steps!
 - Challen
