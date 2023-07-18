@@ -1,6 +1,6 @@
 To get started:
 
-1. Install a integrated development environment (IDE), I recommend Visual Studio Code (https://code.visualstudio.com/download)
+1. Install an integrated development environment (IDE), I recommend Visual Studio Code (https://code.visualstudio.com/download)
 2. Download the files and open up the main directory in your IDE
 3. Set up Node.js and npm (Node package manager), you can find tutorials for this on Youtube
 
@@ -20,7 +20,7 @@ Google APIs and services is required to run the program. Again, Youtube tutorial
 
 The file you will use to search is index.js. I have added an example on there to show how it works.
 
-10. Enter "node index.js" into the terminal to run the program. It may take a few minutes to install the captions.
+10. Enter "node index.js" into the terminal to run the program. It may take a few minutes to download the captions.
 11. Look for a newly created "matches" folder, and the results will be contained within.
 
 Please feel free to contact me if you need any help with any of these steps!
