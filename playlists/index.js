@@ -1,0 +1,1 @@
+export { default as PsychologyInSeattle } from "./PsychologyInSeattle.json" assert { type: "json" };
